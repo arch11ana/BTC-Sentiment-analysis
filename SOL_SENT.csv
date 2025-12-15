@@ -1,0 +1,103 @@
+title,content,created_utc,clean_text,sentiment,sentiment_class,timestamp
+Solana is having network issues. ,,1731191229.0,solana network issues,0.0,neutral,2024-11-09 22:27:09
+Solana Looks Overbought Against Ethereum.,,1729770638.0,solana looks overbought ethereum,0.0,neutral,2024-10-24 11:50:38
+"Edward Snowden calls Solana a centralized system easily corruptible by nation states and bad actors. ""Solana is taking good ideas and going 'what if we just centralized everything? It'll be faster, it'll be more efficient, it'll be cheaper and yeah nobody is using it but for meme coins and scams'""",,1727839078.0,edward snowden calls solana centralized system easily corruptible nation states bad actors solana taking good ideas going centralized everything itll faster itll efficient itll cheaper yeah nobody using meme coins scams,0.25,positive,2024-10-02 03:17:58
+"Reddit Users Uncover Alleged Bot Activity Inflating Solana's (SOL) Daily Active User Numbers, Question Network's Authenticity",,1727655703.0,reddit users uncover alleged bot activity inflating solanas sol daily active user numbers question networks authenticity,0.4019,positive,2024-09-30 00:21:43
+AI Chatbot set to be a millionaire after $500k Solana meme coin success,,1729215884.0,ai chatbot set millionaire k solana meme coin success,0.5719,positive,2024-10-18 01:44:44
+Solana's SOL Surges to Record High Above $260,,1732247053.0,solanas sol surges record high,0.0,neutral,2024-11-22 03:44:13
+"What The FUD? Ethereum Adds Solana’s Entire Market Cap in 1 Week, ETFs See Record Inflow",,1731415428.0,fud ethereum adds solanas entire market cap week etfs see record inflow,-0.2732,negative,2024-11-12 12:43:48
+10 things they don't want people to know or post about about Solana (part deux),"1. **75.72%** of all transactions through Jupiter are failing. 
+
+2. **48.71%** of all transactions through Raydium are failing. 
+
+3. Transactions will fail for a **variety of reasons** not just slippage issues. 
+
+4. Voting consensus transactions & failed transactions massively bloat the blockchain size, **currently \~265 TB & growing fast.** 
+
+5. Again, **TPS includes voting consensus and failed transactions**, failed transactions on most other blockchains are strictly validated before even hitting the blockchain. 
+
+6. **Firedancer** is live on mainnet, but in 'non-voting mode' which means it cannot produce blocks and is **only doing about \~30% of what a validator does.** 
+
+7. **RPC endpoint architecture allows operators to reorder transactions and front-run.** 
+
+8. ***$7.5 billion SOL, is continued to be sold-off by FTX, a major unlock occurs in March 2025, and continued unlocks every month up till 2028.*** (Repeated due to importance). 
+
+9. **5 million daily active users is a myth, 4.5 million of these hold 0 SOL, and much more hold < 1, they are created with an intention to inflate metrics,** notice the large uptick in August, also 1 user(bot) could technically have 4 million wallets. 
+
+10. **The Top 18 validators control +33% of the entire staked Solana supply, meaning they can collaboratively block consensus and censor transactions.**
+
+TL;DR: I added a comedy flair for ""comedy"" purposes because if someone told you that this is one of the major crypto networks you'd indeed think that crypto is a scam...
+
+[SOURCE](https://x.com/ItsDave_ADA/status/1841401150957924437)",1728063065.0,things dont want people know post solana part deux transactions jupiter failing transactions raydium failing transactions fail variety reasons slippage issues voting consensus transactions failed transactions massively bloat blockchain size currently tb growing fast tps includes voting consensus failed transactions failed transactions blockchains strictly validated even hitting blockchain firedancer live mainnet nonvoting mode means cannot produce blocks validator rpc endpoint architecture allows operators reorder transactions frontrun billion sol continued soldoff ftx major unlock occurs march continued unlocks every month till repeated due importance million daily active users myth million hold sol much hold created intention inflate metrics notice large uptick august also userbot could technically million wallets top validators control entire staked solana supply meaning collaboratively block consensus censor transactions tldr added comedy flair comedy purposes someone told one major crypto networks youd indeed think crypto scam source,-0.9388,negative,2024-10-04 17:31:05
+SEC to reject bids for spot Solana ETFs — Report,,1733502342.0,sec reject bids spot solana etfs report,-0.4019,negative,2024-12-06 16:25:42
+"Solana Surpasses Ethereum in Daily Fees for 7 Days, Generating $70 Million",,1732636815.0,solana surpasses ethereum daily fees days generating million,0.0,neutral,2024-11-26 16:00:15
+"When will Ethereum hit record highs like Bitcoin and Solana? Experts say $10,000 within sight",,1732329049.0,ethereum hit record highs like bitcoin solana experts say within sight,0.3612,positive,2024-11-23 02:30:49
+Solana's YTD Inflation Rate is ~13.5%,"https://preview.redd.it/039hbmfottqd1.jpg?width=2048&format=pjpg&auto=webp&s=0ced01d9a3ff5032a20cd2e32019bc6761e3b255
+
+It seems as though the burn-mechanism isn't working so great on SOL, it has over 13.5% YTD inflation.
+
+When you take into consideration that most of the transactions on SOL are failed or consensus transactions it doesn't paint a great picture.
+
+If you factor in team and VC unlocks the inflation is more like \~20%.
+
+Pretty crazy when you consider that SOL technically has an infinite supply and they've been known to lie about this stuff from the beginning.
+
+What is the point of any of this if they can just print more SOL infinitely?",1727213912.0,solanas ytd inflation rate seems though burnmechanism isnt working great sol ytd inflation take consideration transactions sol failed consensus transactions doesnt paint great picture factor team vc unlocks inflation like pretty crazy consider sol technically infinite supply theyve known lie stuff beginning point print sol infinitely,-0.7641,negative,2024-09-24 21:38:32
+2 years ago: a “contrarian thread” that Solana would still make it after the Alameda/FTX collapse. Interesting looking back,,1733637487.0,years ago contrarian thread solana would still make alamedaftx collapse interesting looking back,-0.128,negative,2024-12-08 05:58:07
+"Cardano and Solana, Paul Atkins and David Sacks","
+As we now Trump nominated David Sacks as „the Crypto czar“ and Paul Atkins as next SEC Chairman.
+
+
+Some of us know Sacks as a big paypal guy. And the most of Solana Investors know him as an early Solana investor. Paul Atkins is from my POW less popular, but as the next SEC Chairman hes for sure not less important for the Cryptoindustries. Moreover he also got some Cardano connections, in 2020 he spoke at the Cardano Summit about the mainstream adoption of crypto.
+
+We have two guys which got connection to two successful Blockchain which cant be more different.
+
+One is build on account based model the other one is build on eutxo.
+One is made for the speed the other one is made for reliability. 
+One goes the scientific way of developing the other one is more like a try and error scheme. 
+
+Lets see what will happen in the future! For sure Solana and Cardano are already in the minds of both of them. But in any case. Every other crypto project will benefit from both guys. Because this guys are in our team now! They will play with us! The game against us will end soon!",1733568926.0,cardano solana paul atkins david sacks trump nominated david sacks crypto czar paul atkins next sec chairman us know sacks big paypal guy solana investors know early solana investor paul atkins pow less popular next sec chairman hes sure less important cryptoindustries moreover also got cardano connections spoke cardano summit mainstream adoption crypto two guys got connection two successful blockchain cant different one build account based model one build eutxo one made speed one made reliability one goes scientific way developing one like try error scheme lets see happen future sure solana cardano already minds case every crypto project benefit guys guys team play us game us end soon,0.9394,positive,2024-12-07 10:55:26
+"Ethereum's Justin Drake Sees No Threat From Solana, Says Its ‘Golden Era’ Will End",,1733409321.0,ethereums justin drake sees threat solana says golden era end,-0.5267,negative,2024-12-05 14:35:21
+"Solana’s Hidden Problems: Outages, TPS Misleading, and More",,1728146881.0,solanas hidden problems outages tps misleading,-0.6597,negative,2024-10-05 16:48:01
+Ethereum just hit a brand new 3.5 year low against Bitcoin. ,"ETH just hit a brand new 3 and a half year low against BTC after touching .03462 beating it's last 3 and a half year low of .03465 set just 8 days ago on Nov. 06th 2024. (.03462 means 1 eth is worth 3.46% of 1 BTC. )
+
+In fact this means ETH has wiped all out gains against BTC since April 2021 when ETH was \~2k and BTC was around \~$60k. Since then ETH has completed the merge moving it from POW to POS and Proto-Danksharding (which dropped the gas cost on L2s). Still in comparing it's value against BTC, ETH has officially lost all of it's bear market gains.
+
+[https:\/\/www.coingecko.com\/en\/coins\/ethereum\/btc](https://preview.redd.it/d2gwy67eax0e1.png?width=930&format=png&auto=webp&s=f1797ed2c0843594037ab12f5d8b26ad9a0ba558)
+
+What you might not know is ETH is not alone lots of alts continue to be down against BTC.
+
+Chainlink to BTC is also sitting at a 5 and a half year low.
+
+[https:\/\/www.coingecko.com\/en\/coins\/chainlink\/btc](https://preview.redd.it/ku1r1nkndx0e1.png?width=986&format=png&auto=webp&s=71bed011d770afdf8158f46b5178b18dd0594f49)
+
+Perhaps one of the worst performing alts and sub darling, DOT continues to hover near an ATL against BTC.
+
+[https:\/\/www.coingecko.com\/en\/coins\/polkadot\/btc](https://preview.redd.it/k14atxujex0e1.png?width=948&format=png&auto=webp&s=e8b9f0f20a8ebf5ead8cfb60fb7f892d922762cb)
+
+This list is not comprehensive but many alts are barely above recent bear market lows.
+
+Just for fun I'll also include the Moon to BTC Chart which isn't great but is somehow better looking than a lot of the alts. 
+
+[https:\/\/www.coingecko.com\/en\/coins\/moon\/btc](https://preview.redd.it/ogsd6930hx0e1.png?width=952&format=png&auto=webp&s=19b9d221c0d5da03c564ca2e35ba6e15a68642ed)
+
+",1731616027.0,ethereum hit brand new year low bitcoin eth hit brand new half year low btc touching beating last half year low set days ago nov th means eth worth btc fact means eth wiped gains btc since april eth k btc around k since eth completed merge moving pow pos protodanksharding dropped gas cost ls still comparing value btc eth officially lost bear market gains might know eth alone lots alts continue btc chainlink btc also sitting half year low perhaps one worst performing alts sub darling dot continues hover near atl btc list comprehensive many alts barely recent bear market lows fun ill also include moon btc chart isnt great somehow better looking lot alts,-0.872,negative,2024-11-14 20:27:07
+"Solana Web3.js library backdoored to steal secret, private keys",,1733360255.0,solana webjs library backdoored steal secret private keys,-0.4939,negative,2024-12-05 00:57:35
+"Robinhood Crypto Expands Offering with Solana (SOL), Pepe (PEPE), Cardano (ADA) & XRP (XRP) for U.S. Customers",,1731507946.0,robinhood crypto expands offering solana sol pepe pepe cardano ada xrp xrp us customers,0.1027,positive,2024-11-13 14:25:46
+"Solana Joins $100B Club, Hitting Nearly a Three-Year High Above $210",,1731265359.0,solana joins b club hitting nearly threeyear high,0.0,neutral,2024-11-10 19:02:39
+"Solana Jumps 17%, Flips BNB, Binance Chain Token",,1730881189.0,solana jumps flips bnb binance chain token,0.0,neutral,2024-11-06 08:19:49
+Solana powers 89% of new token launches as memecoin craze continues to fuel network activity,,1731665159.0,solana powers new token launches memecoin craze continues fuel network activity,-0.1531,negative,2024-11-15 10:05:59
+Is Solana the new BNB?,"Four years ago when I got into crypto, Binance Smart Chain (BNB) was the peak of meme coin launches, flooding the market, skyrocketing its volume and price.
+
+Now, Solana appears to be in a similar phase with a growth trajectory mirroring BNB's 2020-2021 period's explosion of meme coin projects. Does that mean BNB actually matured past its meme coins/ scam coin phase?
+
+Just some food for though, wondering if others also noticed this, as I couldn't find it being talked about.
+
+P.S. for newer people, meme coins have no inherent value, just speculation. Before investing Google how to recognize ""rug pull"" & ""Honeypot"" 
+
+
+**EDIT:** just to make sure: I'm not saying SOL is a scam coin at all, just that meme coins have a higher probability to be, regardless of the chain they're on. 
+
+**To rephrase:** both SOL and BNB were around in 2021, BNB being THE chain for meme coins then, what changed that made SOL topple BNB in that regard this time around?",1732662967.0,solana new bnb four years ago got crypto binance smart chain bnb peak meme coin launches flooding market skyrocketing volume price solana appears similar phase growth trajectory mirroring bnbs periods explosion meme coin projects mean bnb actually matured past meme coins scam coin phase food though wondering others also noticed couldnt find talked ps newer people meme coins inherent value speculation investing google recognize rug pull honeypot edit make sure im saying sol scam coin meme coins higher probability regardless chain theyre rephrase sol bnb around bnb chain meme coins changed made sol topple bnb regard time around,0.1531,positive,2024-11-26 23:16:07
+"Snowden calls for decentralization, criticizes VC influence on Solana",,1731247516.0,snowden calls decentralization criticizes vc influence solana,-0.34,negative,2024-11-10 14:05:16
+Solana Dev Quits Project He Set Himself on Fire to Pump,,1728239878.0,solana dev quits project set fire pump,-0.34,negative,2024-10-06 18:37:58
